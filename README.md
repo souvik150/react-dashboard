@@ -1,6 +1,6 @@
 # Making an admin dashboard.
 
-## Making use of syncfusion react components to make an amazing looking dashboard with graph, charts and tables.
+Making use of syncfusion react components to make an amazing looking dashboard with graph, charts and tables.
 
 
 # Instructions to run the project
