@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Making an admin dashboard.
+
+## Making use of syncfusion react components to make an amazing looking dashboard with graph, charts and tables.
+
+
+# Instructions to run the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
